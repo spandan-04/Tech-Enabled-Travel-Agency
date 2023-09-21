@@ -1,0 +1,36 @@
+/* Example CSS styles for the search results page */
+.search-results {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .package {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+  }
+  
+  .package img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .package h3 {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .package p {
+    color: #666;
+  }
+  
+  .package ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .package li {
+    margin-bottom: 5px;
+  }
